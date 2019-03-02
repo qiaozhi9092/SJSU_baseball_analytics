@@ -1,0 +1,234 @@
+,Pitcher,Inning,AutoPitchType,Count,Total count,Percentage
+0,"Bateson, Trevor",8,ChangeUp,3,26,11%
+1,"Bateson, Trevor",8,Curveball,2,26,7%
+2,"Bateson, Trevor",8,Fastball,17,26,65%
+3,"Bateson, Trevor",8,Other,4,26,15%
+4,"Birdsong, Elijah",8,Curveball,1,18,5%
+5,"Birdsong, Elijah",8,Fastball,17,18,94%
+6,"Birdsong, Elijah",9,ChangeUp,1,18,5%
+7,"Birdsong, Elijah",9,Curveball,1,18,5%
+8,"Birdsong, Elijah",9,Fastball,11,18,61%
+9,"Birdsong, Elijah",9,Slider,5,18,27%
+10,"Cadola, Tevin",1,ChangeUp,3,14,21%
+11,"Cadola, Tevin",1,Fastball,11,14,78%
+12,"Cadola, Tevin",2,ChangeUp,2,23,8%
+13,"Cadola, Tevin",2,Curveball,1,23,4%
+14,"Cadola, Tevin",2,Fastball,15,23,65%
+15,"Cadola, Tevin",2,Slider,5,23,21%
+16,"Cadola, Tevin",3,ChangeUp,4,16,25%
+17,"Cadola, Tevin",3,Curveball,1,16,6%
+18,"Cadola, Tevin",3,Fastball,10,16,62%
+19,"Cadola, Tevin",3,Slider,1,16,6%
+20,"Cadola, Tevin",4,ChangeUp,5,25,20%
+21,"Cadola, Tevin",4,Curveball,4,25,16%
+22,"Cadola, Tevin",4,Fastball,10,25,40%
+23,"Cadola, Tevin",4,Other,1,25,4%
+24,"Cadola, Tevin",4,Slider,5,25,20%
+25,"Cadola, Tevin",5,Curveball,4,12,33%
+26,"Cadola, Tevin",5,Fastball,3,12,25%
+27,"Cadola, Tevin",5,Slider,5,12,41%
+28,"Cadola, Tevin",6,Curveball,1,20,5%
+29,"Cadola, Tevin",6,Fastball,14,20,70%
+30,"Cadola, Tevin",6,Other,2,20,10%
+31,"Cadola, Tevin",6,Slider,3,20,15%
+32,"Clark, Jonathan",2,ChangeUp,3,9,33%
+33,"Clark, Jonathan",2,Fastball,5,9,55%
+34,"Clark, Jonathan",2,Slider,1,9,11%
+35,"Clark, Jonathan",3,ChangeUp,1,11,9%
+36,"Clark, Jonathan",3,Curveball,2,11,18%
+37,"Clark, Jonathan",3,Fastball,7,11,63%
+38,"Clark, Jonathan",3,Slider,1,11,9%
+39,"Clark, Jonathan",4,ChangeUp,3,14,21%
+40,"Clark, Jonathan",4,Fastball,11,14,78%
+41,"Clark, Jonathan",5,ChangeUp,7,24,29%
+42,"Clark, Jonathan",5,Curveball,2,24,8%
+43,"Clark, Jonathan",5,Fastball,14,24,58%
+44,"Clark, Jonathan",5,Slider,1,24,4%
+45,"Clark, Jonathan",6,ChangeUp,8,28,28%
+46,"Clark, Jonathan",6,Curveball,6,28,21%
+47,"Clark, Jonathan",6,Fastball,13,28,46%
+48,"Clark, Jonathan",6,Slider,1,28,3%
+49,"Clark, Jonathan",7,ChangeUp,13,21,61%
+50,"Clark, Jonathan",7,Curveball,3,21,14%
+51,"Clark, Jonathan",7,Other,5,21,23%
+52,"Clawson, Wesley",8,ChangeUp,2,12,16%
+53,"Clawson, Wesley",8,Fastball,9,12,75%
+54,"Clawson, Wesley",8,Slider,1,12,8%
+55,"Del Bonta-Smith, Fineas",8,Fastball,4,8,50%
+56,"Del Bonta-Smith, Fineas",8,Slider,4,8,50%
+57,"Del Bonta-Smith, Fineas",9,ChangeUp,2,29,6%
+58,"Del Bonta-Smith, Fineas",9,Fastball,18,29,62%
+59,"Del Bonta-Smith, Fineas",9,Other,3,29,10%
+60,"Del Bonta-Smith, Fineas",9,Sinker,1,29,3%
+61,"Del Bonta-Smith, Fineas",9,Slider,5,29,17%
+62,"Ertz, Jackson",9,ChangeUp,2,23,8%
+63,"Ertz, Jackson",9,Fastball,20,23,86%
+64,"Ertz, Jackson",9,Other,1,23,4%
+65,"Giles, Chandler",1,Curveball,2,17,11%
+66,"Giles, Chandler",1,Fastball,14,17,82%
+67,"Giles, Chandler",1,Slider,1,17,5%
+68,"Giles, Chandler",2,ChangeUp,1,43,2%
+69,"Giles, Chandler",2,Curveball,4,43,9%
+70,"Giles, Chandler",2,Fastball,38,43,88%
+71,"Giles, Chandler",8,Fastball,11,11,100%
+72,"Granillo, Andre",6,Curveball,6,27,22%
+73,"Granillo, Andre",6,Fastball,21,27,77%
+74,"Granillo, Andre",7,ChangeUp,2,7,28%
+75,"Granillo, Andre",7,Fastball,5,7,71%
+76,"Haffar, Abbott",8,ChangeUp,6,20,30%
+77,"Haffar, Abbott",8,Curveball,1,20,5%
+78,"Haffar, Abbott",8,Fastball,13,20,65%
+79,"Konishi, Connor",8,ChangeUp,4,18,22%
+80,"Konishi, Connor",8,Fastball,11,18,61%
+81,"Konishi, Connor",8,Slider,3,18,16%
+82,"Lyons, Shamus",1,ChangeUp,3,12,25%
+83,"Lyons, Shamus",1,Fastball,5,12,41%
+84,"Lyons, Shamus",1,Slider,3,12,25%
+85,"Lyons, Shamus",1,Undefined,1,12,8%
+86,"Lyons, Shamus",2,ChangeUp,5,15,33%
+87,"Lyons, Shamus",2,Fastball,5,15,33%
+88,"Lyons, Shamus",2,Slider,5,15,33%
+89,"Lyons, Shamus",3,ChangeUp,9,18,50%
+90,"Lyons, Shamus",3,Fastball,7,18,38%
+91,"Lyons, Shamus",3,Slider,2,18,11%
+92,"Lyons, Shamus",4,ChangeUp,3,5,60%
+93,"Lyons, Shamus",4,Fastball,2,5,40%
+94,"Lyons, Shamus",5,ChangeUp,5,15,33%
+95,"Lyons, Shamus",5,Fastball,7,15,46%
+96,"Lyons, Shamus",5,Slider,3,15,20%
+97,"Lyons, Shamus",6,ChangeUp,5,14,35%
+98,"Lyons, Shamus",6,Fastball,3,14,21%
+99,"Lyons, Shamus",6,Slider,6,14,42%
+100,"Lyons, Shamus",7,ChangeUp,6,16,37%
+101,"Lyons, Shamus",7,Curveball,1,16,6%
+102,"Lyons, Shamus",7,Fastball,5,16,31%
+103,"Lyons, Shamus",7,Slider,4,16,25%
+104,"Lyons, Shamus",8,ChangeUp,1,14,7%
+105,"Lyons, Shamus",8,Fastball,5,14,35%
+106,"Lyons, Shamus",8,Slider,8,14,57%
+107,"Mckesson, Devin",6,Fastball,1,1,100%
+108,"Mckesson, Devin",7,Fastball,9,11,81%
+109,"Mckesson, Devin",7,Sinker,1,11,9%
+110,"Mckesson, Devin",7,Slider,1,11,9%
+111,"Miller, Mitchell",6,ChangeUp,1,11,9%
+112,"Miller, Mitchell",6,Fastball,5,11,45%
+113,"Miller, Mitchell",6,Other,2,11,18%
+114,"Miller, Mitchell",6,Slider,3,11,27%
+115,"Miller, Mitchell",7,Fastball,14,25,56%
+116,"Miller, Mitchell",7,Slider,11,25,44%
+117,"Mitchel, Andrew",1,Curveball,1,20,5%
+118,"Mitchel, Andrew",1,Fastball,19,20,95%
+119,"Mitchel, Andrew",2,Curveball,2,21,9%
+120,"Mitchel, Andrew",2,Fastball,18,21,85%
+121,"Mitchel, Andrew",2,Other,1,21,4%
+122,"Mitchel, Andrew",3,ChangeUp,1,15,6%
+123,"Mitchel, Andrew",3,Curveball,5,15,33%
+124,"Mitchel, Andrew",3,Fastball,7,15,46%
+125,"Mitchel, Andrew",3,Other,2,15,13%
+126,"Mitchel, Andrew",4,Fastball,8,12,66%
+127,"Mitchel, Andrew",4,Other,4,12,33%
+128,"Mitchel, Andrew",5,ChangeUp,1,18,5%
+129,"Mitchel, Andrew",5,Curveball,3,18,16%
+130,"Mitchel, Andrew",5,Fastball,9,18,50%
+131,"Mitchel, Andrew",5,Other,2,18,11%
+132,"Mitchel, Andrew",5,Slider,3,18,16%
+133,"Mitchel, Andrew",6,ChangeUp,2,8,25%
+134,"Mitchel, Andrew",6,Fastball,5,8,62%
+135,"Mitchel, Andrew",6,Slider,1,8,12%
+136,"Noonan, Jared",9,ChangeUp,1,22,4%
+137,"Noonan, Jared",9,Fastball,14,22,63%
+138,"Noonan, Jared",9,Other,2,22,9%
+139,"Noonan, Jared",9,Slider,5,22,22%
+140,"Ohi, Riley",1,ChangeUp,1,32,3%
+141,"Ohi, Riley",1,Curveball,2,32,6%
+142,"Ohi, Riley",1,Fastball,29,32,90%
+143,"Ohi, Riley",2,Curveball,1,24,4%
+144,"Ohi, Riley",2,Fastball,22,24,91%
+145,"Ohi, Riley",2,Undefined,1,24,4%
+146,"Ohi, Riley",3,Fastball,17,17,100%
+147,"Pearce, Hayden",1,Fastball,12,19,63%
+148,"Pearce, Hayden",1,Slider,7,19,36%
+149,"Pearce, Hayden",2,Fastball,4,12,33%
+150,"Pearce, Hayden",2,Slider,8,12,66%
+151,"Pearce, Hayden",3,Fastball,8,11,72%
+152,"Pearce, Hayden",3,Slider,3,11,27%
+153,"Pearce, Hayden",4,Curveball,4,19,21%
+154,"Pearce, Hayden",4,Fastball,12,19,63%
+155,"Pearce, Hayden",4,Slider,3,19,15%
+156,"Petrovick, Hayden",4,ChangeUp,2,14,14%
+157,"Petrovick, Hayden",4,Curveball,2,14,14%
+158,"Petrovick, Hayden",4,Fastball,10,14,71%
+159,"Petrovick, Hayden",5,ChangeUp,9,32,28%
+160,"Petrovick, Hayden",5,Curveball,4,32,12%
+161,"Petrovick, Hayden",5,Fastball,19,32,59%
+162,"Petrovick, Hayden",9,ChangeUp,6,8,75%
+163,"Petrovick, Hayden",9,Fastball,1,8,12%
+164,"Petrovick, Hayden",9,Other,1,8,12%
+165,"Polack, Ben	",1,ChangeUp,6,22,27%
+166,"Polack, Ben	",1,Fastball,12,22,54%
+167,"Polack, Ben	",1,Slider,4,22,18%
+168,"Polack, Ben	",2,ChangeUp,1,14,7%
+169,"Polack, Ben	",2,Curveball,1,14,7%
+170,"Polack, Ben	",2,Fastball,10,14,71%
+171,"Polack, Ben	",2,Slider,2,14,14%
+172,"Polack, Ben	",3,ChangeUp,1,16,6%
+173,"Polack, Ben	",3,Fastball,12,16,75%
+174,"Polack, Ben	",3,Slider,3,16,18%
+175,"Polack, Ben	",4,ChangeUp,1,13,7%
+176,"Polack, Ben	",4,Fastball,11,13,84%
+177,"Polack, Ben	",4,Slider,1,13,7%
+178,"Polack, Ben	",5,Fastball,11,14,78%
+179,"Polack, Ben	",5,Slider,2,14,14%
+180,"Polack, Ben	",5,Undefined,1,14,7%
+181,"Priddy, Jeremiah",1,Curveball,5,26,19%
+182,"Priddy, Jeremiah",1,Fastball,19,26,73%
+183,"Priddy, Jeremiah",1,Slider,2,26,7%
+184,"Priddy, Jeremiah",2,ChangeUp,1,14,7%
+185,"Priddy, Jeremiah",2,Curveball,5,14,35%
+186,"Priddy, Jeremiah",2,Fastball,8,14,57%
+187,"Priddy, Jeremiah",3,Curveball,9,17,52%
+188,"Priddy, Jeremiah",3,Fastball,8,17,47%
+189,"Priddy, Jeremiah",4,Curveball,9,15,60%
+190,"Priddy, Jeremiah",4,Fastball,5,15,33%
+191,"Priddy, Jeremiah",4,Other,1,15,6%
+192,"Priddy, Jeremiah",5,Curveball,3,8,37%
+193,"Priddy, Jeremiah",5,Fastball,5,8,62%
+194,"Priddy, Jeremiah",6,Curveball,6,11,54%
+195,"Priddy, Jeremiah",6,Fastball,5,11,45%
+196,"Sanders, Travis",8,ChangeUp,3,24,12%
+197,"Sanders, Travis",8,Fastball,16,24,66%
+198,"Sanders, Travis",8,Other,1,24,4%
+199,"Sanders, Travis",8,Sinker,4,24,16%
+200,"Standley, Joseph",5,ChangeUp,4,13,30%
+201,"Standley, Joseph",5,Fastball,8,13,61%
+202,"Standley, Joseph",5,Slider,1,13,7%
+203,"Standley, Joseph",6,ChangeUp,5,12,41%
+204,"Standley, Joseph",6,Fastball,6,12,50%
+205,"Standley, Joseph",6,Other,1,12,8%
+206,"Standley, Joseph",7,ChangeUp,9,14,64%
+207,"Standley, Joseph",7,Fastball,5,14,35%
+208,"Tucker, Cole",8,Fastball,6,6,100%
+209,"Wallace, Zach",7,Curveball,2,6,33%
+210,"Wallace, Zach",7,Fastball,1,6,16%
+211,"Wallace, Zach",7,Other,3,6,50%
+212,"West, Kevin",7,Curveball,3,9,33%
+213,"West, Kevin",7,Fastball,6,9,66%
+214,"West, Kevin",8,Curveball,5,28,17%
+215,"West, Kevin",8,Fastball,21,28,75%
+216,"West, Kevin",8,Sinker,2,28,7%
+217,"West, Kevin",9,Fastball,2,2,100%
+218,"Zanger, Josh",6,ChangeUp,2,14,14%
+219,"Zanger, Josh",6,Fastball,11,14,78%
+220,"Zanger, Josh",6,Sinker,1,14,7%
+221,"Zanger, Josh",7,ChangeUp,1,12,8%
+222,"Zanger, Josh",7,Fastball,9,12,75%
+223,"Zanger, Josh",7,Slider,2,12,16%
+224,"Zanger, Josh",8,ChangeUp,2,16,12%
+225,"Zanger, Josh",8,Fastball,10,16,62%
+226,"Zanger, Josh",8,Sinker,1,16,6%
+227,"Zanger, Josh",8,Slider,3,16,18%
+228,"Zanger, Josh",9,ChangeUp,1,21,4%
+229,"Zanger, Josh",9,Fastball,16,21,76%
+230,"Zanger, Josh",9,Other,1,21,4%
+231,"Zanger, Josh",9,Slider,2,21,9%
+232,"Zanger, Josh",9,Undefined,1,0,Null
